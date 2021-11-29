@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre gif grid item Comparamos contra snapshot 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="title test"
+    src="https://localhost/algo.jpg"
+  />
+  <p>
+     
+    title test
+     
+  </p>
+</div>
+`;
